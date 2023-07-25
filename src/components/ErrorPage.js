@@ -12,7 +12,7 @@ function ErrorPage() {
                 <h1 class="remix-caught-status remix-text-glow">
                     <p >4</p>
                     <p>0</p>
-                    <p >4</p>
+                    <p>4</p>
                 </h1>
                 <div class="text-base font-mono">That page was not found!</div>
                <div className=" text-base font-mono">
